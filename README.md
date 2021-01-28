@@ -1,2 +1,2 @@
 # Scientific_Computing_with_Python_freeCodeCamp
-projects of scientific computing with Python at freeCodeCamp
+projects and certification: Scientific_Computing_with_Python_freeCodeCamp. Verify certificate at https://www.freecodecamp.org/wzhao
